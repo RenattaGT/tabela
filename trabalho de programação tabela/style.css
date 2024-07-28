@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(255, 161, 217);
+}
+
+.titulo {
+    color: rgb(255, 84, 187);
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+table, th, td {
+    border: 5px solid rgb(255, 84, 187);
+    border-radius: 5px;
+    text-align: center;
+}
+
+th {
+    background-color: rgb(254, 255, 173);
+}
+
+td {
+    background-color: rgb(173, 210, 255);
+}
